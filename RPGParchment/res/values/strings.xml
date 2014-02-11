@@ -4,5 +4,6 @@
     <string name="app_name">RPGParchment</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="menu_name">Main Menu</string>
 
 </resources>
